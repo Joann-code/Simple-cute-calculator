@@ -24,7 +24,7 @@ It has soft pastel colors, rounded buttons, and Nintendo-inspired vibes 🎮.
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/yourusername/cute-calculator.git
+   git clone https://github.com/Joann-code/Simple-cute-calculator.git
 2. Open index.html in your browser
 
 Done!
