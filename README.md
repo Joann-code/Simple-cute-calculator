@@ -1,4 +1,4 @@
-# 🧮 Cute Retro Calculator
+# 🧮 Simple cute Calculator
 
 A simple, cute, retro-style calculator website built using **HTML**, **CSS**, and **JavaScript**.  
 It has soft pastel colors, rounded buttons, and Nintendo-inspired vibes 🎮.
